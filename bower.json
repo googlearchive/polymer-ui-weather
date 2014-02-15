@@ -2,7 +2,8 @@
   "name": "polymer-ui-weather",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "polymer-jsonp": "Polymer/polymer-jsonp#master"
-  }
+    "polymer": "Polymer/polymer#0.2.0",
+    "polymer-jsonp": "Polymer/polymer-jsonp#0.2.0"
+  },
+  "version": "0.2.0"
 }
